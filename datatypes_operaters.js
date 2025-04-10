@@ -12,5 +12,8 @@ let exp = intNum ** 3
 console.log("Addition:",sum);
 console.log("Subtraction:",sub);
 console.log("Multiplication:",mult);
-console.log("Modulus:",mod);
+console.log("Remainder:",mod);
 console.log("Exponential:",exp)
+
+
+//exercise 2

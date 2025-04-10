@@ -13,10 +13,10 @@ console.log("Student:",isStudent);
 //exercise 2
 //declare a variable and assign a value to it, re-assign a value to it again
 
-let favoriteColer = "Black"
+let favoriteColor = "Black"
 //re-assigning a value
-favoriteColer = "Blue"
-console.log("Favorite color:", favoriteColer)
+favoriteColor = "Blue"
+console.log("Favorite color:", favoriteColor)
 
 
 //exercise 3
